@@ -1,0 +1,44 @@
+@import url(https://fonts.bunny.net/css?family=calligraffitti:400);
+@import url(https://fonts.bunny.net/css?family=briem-hand:400);
+
+article {
+    padding: 4rem;
+    color: rgb(255, 255, 240);
+    font-family: 'Calligraffitti', handwriting;
+    font-size: larger;  
+    text-align: center;
+}
+h2 {
+    padding-top: 4rem;
+    font-family: 'Briem Hand', handwriting;
+}
+section {
+    justify-content: center;
+}
+img {
+    width: 95%;
+    height: 90%;
+}
+.summer {
+    background-color: rgb(20, 13, 0);
+}
+.first {
+    background-color: rgb(44, 32, 0);
+}
+.second {
+    background-color: rgb(22, 24, 0);
+}
+.row1 {
+    display: flex;
+    
+}
+.row2 {
+    display: flex;
+}
+.row3 {
+    display: flex;
+    background-color: rgb(22, 24, 0);
+}
+.row4 {
+    display: flex;
+}
