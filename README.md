@@ -9,7 +9,12 @@ This website is a sample of a photo portfolio I designed and built with React an
 
 <img width="1828" height="1030" alt="PhotoPortfolio" src="https://github.com/user-attachments/assets/1237e0c7-9f6c-4c34-b3a1-407d43185860" />
 
-This Project was built with React & Vite.
+## How to Open
+- Simply follow the link in the descrption to view the site!
+
+
+
+### This Project was built with React & Vite
 
 This template provides a minimal setup to get React working in Vite.
 
