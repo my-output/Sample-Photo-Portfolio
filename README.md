@@ -9,8 +9,6 @@ This website is a sample of a photo portfolio I designed and built with React an
 
 <img width="1828" height="1030" alt="PhotoPortfolio" src="https://github.com/user-attachments/assets/1237e0c7-9f6c-4c34-b3a1-407d43185860" />
 
-<img width="1786" height="978" alt="Photo-Nature" src="https://github.com/user-attachments/assets/b96dbaa7-4c51-4bae-aa25-5a36a9f97539" />
-
 ## How to Open
 - Simply follow the link in the descrption to view the site!
 
