@@ -1,21 +1,15 @@
-<<<<<<< HEAD
-# React + Vite
+React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite.
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    @vitejs/plugin-react
+    @vitejs/plugin-react-swc
 
-## React Compiler
+React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The React Compiler is not enabled on this template because of its size/performance tradeoffs.
+Expanding the ESLint configuration
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Sample-Photo-Portfolio
-This is a simple React front-end that portrays an example of a photo portfolio. This project was developed as a way to practice and show skills in using frameworks as well as designing a front-end. The site is very minimal, with only two pages.
->>>>>>> 74789578aab8806348da8c89d525d04025e86a54
+If you are developing a production application, we recommend using a fuller ESLint config.
