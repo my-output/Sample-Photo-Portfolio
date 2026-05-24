@@ -1,4 +1,4 @@
-# Sample Portfolio
+# Sample Photo Portfolio
 
 This website is a sample of a photo portfolio I designed and built with React and Vite. It is meant to be a demonstration of my current knowledge of React, as well as a way to practice web design. It uses a router, which is able to show multiple pages without fully reloading the page. The site is very minimal, and is meant as an example of a simple front-end. I may make additions to the site going forward as well.
 
