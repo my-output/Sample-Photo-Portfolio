@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Sample-Photo-Portfolio
+This is a simple React front-end that portrays an example of a photo portfolio. This project was developed as a way to practice and show skills in using frameworks as well as designing a front-end. The site is very minimal, with only two pages.
+>>>>>>> 74789578aab8806348da8c89d525d04025e86a54
